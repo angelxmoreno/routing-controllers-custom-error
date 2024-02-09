@@ -32,6 +32,7 @@ class IndexController {
 const api = createExpressServer({
     defaultErrorHandler: false,
     middlewares: [ErrorHandler],
+    controllers:[IndexController]
 });
 
 
