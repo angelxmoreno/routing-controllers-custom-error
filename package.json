@@ -5,7 +5,7 @@
   "repository": "git@github.com:angelxmoreno/routing-controllers-custom-error.git",
   "author": "Angel S. Moreno <angelxmoreno@gmail.com>",
   "scripts": {
-    "start": "tsx src/index.ts"
+    "dev": "bun --watch src/index.ts"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
