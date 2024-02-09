@@ -1,7 +1,7 @@
 {
   "name": "routing-controllers-custom-error",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.ts",
   "repository": "git@github.com:angelxmoreno/routing-controllers-custom-error.git",
   "author": "Angel S. Moreno <angelxmoreno@gmail.com>",
   "scripts": {
